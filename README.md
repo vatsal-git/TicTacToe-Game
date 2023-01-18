@@ -1,8 +1,8 @@
-# Tic Tac Toe
+# TicTacToe Game
 
 ## Overview
 
-The Tic Tac Toe game in React.
+The Tic Tac Toe game in React Js.
 
 Stack:
 
