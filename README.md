@@ -2,7 +2,8 @@
 
 ## Overview
 
-The TicTacToe Game in React Js. Part of Internshala React Js course.
+- The TicTacToe Game in React Js.
+- Part of Internshala React Js course.
 
 ## Stack:
 
