@@ -4,7 +4,7 @@
 
 The TicTacToe Game in React Js. Part of Internshala React Js course.
 
-Stack:
+## Stack:
 
 - React Js
 - Styles with Sass
